@@ -19,8 +19,8 @@ You use git clone to be able to download the documents in the GitHub
 Git
 
 ### Installation instruction
-```
-Git clone https://github.com/hamida-mstafa/Triangle-tracker.git
+...
+https://github.com/mvthiora21/CODE-CHALLENGE
 
 ```
 
